@@ -1,2 +1,2 @@
 # PVapor
-Engineering project related to a application in a hospital.
+Engineering project related to steam distribution in a hospital.
